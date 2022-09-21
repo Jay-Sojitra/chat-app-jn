@@ -36,6 +36,7 @@ const io = socket(server, {
     credentials: true,
   },
 });
+nigam
 const iot = socket(server, {
   cors: {
     origin: "http://localhost:3000",
